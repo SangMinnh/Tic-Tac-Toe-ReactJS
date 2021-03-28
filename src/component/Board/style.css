@@ -1,0 +1,15 @@
+.board-container {
+    display: grid;
+    grid-template-columns: auto 4px auto 4px auto;
+    grid-template-rows: auto 4px auto 4px auto;
+ box-sizing: border-box;
+  }
+
+  .line{
+      background-color: rgb(255,255,255);
+  }
+
+  .status{
+      margin: 30px;
+  }
+  
